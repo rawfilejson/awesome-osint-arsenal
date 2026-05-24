@@ -557,6 +557,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **GeoGuessr** | Geolocation training game | [geoguessr.com](https://geoguessr.com/) |
 | **Sentinel Hub** | Satellite imagery access | [sentinel-hub.com](https://sentinel-hub.com/) |
 | **FIRMS** | NASA fire/thermal hotspots | [firms.modaps.eosdis.nasa.gov](https://firms.modaps.eosdis.nasa.gov/) |
+| **Phantom Tide** | Cross-domain OSINT dashboard for maritime and airspace analysis | [phantom.labs.jamessawyer.co.uk](https://phantom.labs.jamessawyer.co.uk/) |
 | **Wikimapia** | Collaborative world map | [wikimapia.org](https://wikimapia.org/) |
 | **OpenStreetMap** | Free world map | [openstreetmap.org](https://openstreetmap.org/) |
 | **GeoSpy** | AI-powered image geolocation | [geospy.ai](https://geospy.ai/) |
