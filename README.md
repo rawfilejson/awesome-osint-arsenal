@@ -505,6 +505,7 @@ pip install phoneinfoga
 | **Criminal IP** | AI-powered cyber threat intelligence | [criminalip.io](https://www.criminalip.io/) |
 | **VirusTotal** | Domain/IP/file analysis | [virustotal.com](https://virustotal.com/) |
 | **SecurityTrails** | DNS & domain intelligence | [securitytrails.com](https://securitytrails.com/) |
+| **DomainIntel API** | Domain intelligence: RDAP, DNS, certificates, bulk lookups | [domainintel.onrender.com](https://domainintel.onrender.com) |
 | **IPGeoLocation** | IP address geolocation | `git clone https://github.com/maldevel/IPGeoLocation` |
 | **Nmap** | Network scanner & mapper | `apt install nmap` |
 | **Masscan** | Fastest internet port scanner | `apt install masscan` |
