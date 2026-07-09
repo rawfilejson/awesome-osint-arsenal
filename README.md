@@ -333,6 +333,9 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 - [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 > 🎯 Find accounts, profiles, and digital footprints across hundreds of platforms.
 >
 > **Pro tip:** Start with Sherlock for a quick sweep, then use Maigret for depth — it covers 3000+ sites.
