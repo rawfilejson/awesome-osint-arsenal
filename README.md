@@ -458,6 +458,7 @@ h8mail -t emails.txt
 | **GetContact** | See how number is saved by others | [getcontact.com](https://getcontact.com/) |
 | **NumVerify** | Phone number validation API | [numverify.com](https://numverify.com/) |
 | **Truecaller** | Caller ID & spam lookup | [truecaller.com](https://truecaller.com/) |
+| **CheckLeaked WhatsApp** | WhatsApp number lookup — profile pic history, About/bio, business-account detection | [whatsapp.checkleaked.cc](https://whatsapp.checkleaked.cc/) |
 | **Sync.me** | Phone number lookup | [sync.me](https://sync.me/) |
 | **CallerIDTest** | Reverse phone lookup | [calleridtest.com](https://calleridtest.com/) |
 | **SpyDialer** | Free reverse phone lookup | [spydialer.com](https://spydialer.com/) |
