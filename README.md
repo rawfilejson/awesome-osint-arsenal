@@ -503,6 +503,7 @@ pip install phoneinfoga
 | **Shodan** | Internet-connected device search | [shodan.io](https://shodan.io/) |
 | **Censys** | Internet-wide scan search | [censys.io](https://censys.io/) |
 | **Criminal IP** | AI-powered cyber threat intelligence | [criminalip.io](https://www.criminalip.io/) |
+| **IPOK** | Multi-source IP reputation & risk (proxy/VPN/Tor/datacenter detection, no login) | [ipok.io](https://ipok.io/) |
 | **VirusTotal** | Domain/IP/file analysis | [virustotal.com](https://virustotal.com/) |
 | **SecurityTrails** | DNS & domain intelligence | [securitytrails.com](https://securitytrails.com/) |
 | **IPGeoLocation** | IP address geolocation | `git clone https://github.com/maldevel/IPGeoLocation` |
