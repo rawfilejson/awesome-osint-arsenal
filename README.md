@@ -1018,6 +1018,7 @@ bash zphisher.sh
 | Tool | Description | Link |
 |------|-------------|------|
 | **OpenCorporates** | Global corporate database | [opencorporates.com](https://opencorporates.com/) |
+| **Fylings** | African company registries -- 18+ jurisdictions, ownership data, sanctions screening | [fylings.com](https://www.fylings.com/) |
 | **ICIJ Offshore Leaks** | Panama/Pandora/Paradise Papers | [offshoreleaks.icij.org](https://offshoreleaks.icij.org/) |
 | **SEC EDGAR** | US company filings | [sec.gov/edgar](https://sec.gov/edgar) |
 | **Companies House (UK)** | UK company register | [beta.companieshouse.gov.uk](https://beta.companieshouse.gov.uk/) |
