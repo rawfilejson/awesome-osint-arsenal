@@ -1063,6 +1063,7 @@ bash zphisher.sh
 | **Foremost** | File carving (recover deleted files) | `apt install foremost` |
 | **Bulk Extractor** | Extract features from disk images | `apt install bulk-extractor` |
 | **ExifTool** | Complete metadata extraction | `apt install libimage-exiftool-perl` |
+| **Metadata Remover** | Browser-local image metadata inspection for EXIF, GPS, XMP, IPTC, and supported AI metadata; no uploads or account | [metadataremover.ai](https://metadataremover.ai/metadata-viewer) |
 | **Metagoofil** | Document metadata harvester | `pip install metagoofil` |
 | **CyberChef** | Data analysis swiss army knife | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) |
 | **Scalpel** | File carving tool | `apt install scalpel` |
