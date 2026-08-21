@@ -1998,6 +1998,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **meg** | Fetch many paths for many hosts without flooding | `go install github.com/tomnomnom/meg@latest` |
 | **[Memento Time Travel](https://timetravel.mementoweb.org)** | Federated search across multiple web archives | [timetravel.mementoweb.org](https://timetravel.mementoweb.org) |
 | **[Metadata2Go](https://www.metadata2go.com)** | Free online metadata extractor for any file | [metadata2go.com](https://www.metadata2go.com) |
+| **[Metadata Remover — Metadata Viewer](https://metadataremover.ai/metadata-viewer)** | Browser-local EXIF/IPTC/XMP inspection for images; corroborate forensic findings independently | [metadataremover.ai](https://metadataremover.ai/metadata-viewer) |
 | **[MetaDefender Cloud](https://metadefender.com)** | Multi-engine file/URL/IP scanning by OPSWAT | [metadefender.com](https://metadefender.com) |
 | **[MetaSleuth](https://metasleuth.io)** | Free + paid crypto transaction tracing tool | [metasleuth.io](https://metasleuth.io) |
 | **[MISP Galaxy](https://www.misp-galaxy.org)** | Adversary group identification used by SOCs/ISACs | [misp-galaxy.org](https://www.misp-galaxy.org) |
