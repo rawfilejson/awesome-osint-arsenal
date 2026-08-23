@@ -521,6 +521,7 @@ pip install phoneinfoga
 | **Web-Check** | All-in-one website analysis | [web-check.xyz](https://web-check.xyz/) |
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
 | **DB-IP** | IP geolocation database | [db-ip.com](https://db-ip.com/) |
+| **StackScan** | Tech stack & asset footprint search | [stackscan.com](https://www.stackscan.com/) |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
