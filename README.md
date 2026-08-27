@@ -935,6 +935,7 @@ bash zphisher.sh
 | **GoldenEye** | HTTP DoS tool (authorized load testing) | `git clone https://github.com/jseidl/GoldenEye` |
 | **ExploitDB** | Exploit database (searchsploit) | [exploit-db.com](https://www.exploit-db.com/) |
 | **Criminal IP** | Vulnerability & CVE search | [criminalip.io](https://www.criminalip.io/) |
+| **Darkmoon** | Autonomous AI pentest engine with real exploit execution | `git clone https://github.com/ASCIT31/Dark-Moon` |
 
 ---
 
