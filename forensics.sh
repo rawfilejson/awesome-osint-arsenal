@@ -123,7 +123,7 @@ install_git() {
     skip "$dst already cloned"
     return
   fi
-  if git clone --depth=1 "$repo" "/opt/osint-arsenal/$dst" >/dev/null 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
+  if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "/opt/osint-arsenal/$dst" >/dev/null 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
 }
 
 install_docker() {
@@ -219,7 +219,7 @@ mkdir -p /opt/osint-arsenal
 if [ -d "/opt/osint-arsenal/EyeWitness" ]; then
   skip "EyeWitness already cloned"
 else
-  if git clone --depth=1 https://github.com/RedSiege/EyeWitness.git /opt/osint-arsenal/EyeWitness >/dev/null 2>&1; then
+  if GIT_TERMINAL_PROMPT=0 git clone --depth=1 https://github.com/RedSiege/EyeWitness.git /opt/osint-arsenal/EyeWitness >/dev/null 2>&1; then
     say "Running baseline infrastructure setup for EyeWitness..."
     if bash /opt/osint-arsenal/EyeWitness/Python/setup/setup.sh -y >/dev/null 2>&1; then
       ok "EyeWitness (git + compiled)"

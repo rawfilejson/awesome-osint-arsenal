@@ -120,7 +120,7 @@ install_git() {
 		skip "$dst already cloned"
 		return
 	fi
-	if git clone --depth=1 "$repo" "/opt/osint-arsenal/$dst" >/dev/null 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
+	if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "/opt/osint-arsenal/$dst" >/dev/null 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
 }
 install_docker() {
 	local image="$1" name="$2"

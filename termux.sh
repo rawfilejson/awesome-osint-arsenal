@@ -63,7 +63,7 @@ install_git() {
     skip "$dst already cloned"
     return
   fi
-  if git clone --depth=1 "$repo" "$HOME/osint-arsenal/$dst" >>"$LOGFILE" 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
+  if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "$HOME/osint-arsenal/$dst" >>"$LOGFILE" 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
 }
 
 say "Updating Termux ecosystem repositories..."
