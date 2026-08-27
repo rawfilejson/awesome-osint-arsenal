@@ -358,6 +358,10 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **Instant Username Search** | Real-time username checker | [instantusername.com](https://instantusername.com/) |
 | **Usersearch.org** | Free social network search | [usersearch.org](https://usersearch.org/) |
 | **Lullar** | Free people search by email, username, or name across 175+ sites | [com.lullar.com](https://com.lullar.com/) |
+| **tookie-osint** | Username to social accounts across many sites | `git clone https://github.com/Alfredredbird/tookie-osint` |
+| **GitFive** | GitHub account OSINT — emails, keys, activity | `git clone https://github.com/mxrch/GitFive` |
+| **Marple** | Username search across search-engine results | `git clone https://github.com/soxoj/marple` |
+| **yesitsme** | Find Instagram accounts by email or phone | `git clone https://github.com/0x0be/yesitsme` |
 
 <details>
 <summary><b>💻 Sherlock — Install & Usage</b></summary>
@@ -426,6 +430,10 @@ maigret "username" --html
 | **SimpleLogin** | Email alias service for OSINT | [simplelogin.io](https://simplelogin.io/) |
 | **Email-Checker** | Email validation tool | [email-checker.net](https://email-checker.net/) |
 | **Voila Norbert** | Find anyone's email | [voilanorbert.com](https://voilanorbert.com/) |
+| **Mosint** | Automated email OSINT (breaches, social, DNS) | `git clone https://github.com/alpkeskin/mosint` |
+| **pwnedOrNot** | Check email breaches and dump exposed passwords | `git clone https://github.com/thewhiteh4t/pwnedOrNot` |
+| **Mailcat** | Find registered accounts from an email address | `git clone https://github.com/sharsil/mailcat` |
+| **check-if-email-exists** | Verify email deliverability without sending | `git clone https://github.com/reacherhq/check-if-email-exists` |
 
 <details>
 <summary><b>💻 h8mail — Install & Usage</b></summary>
@@ -521,6 +529,12 @@ pip install phoneinfoga
 | **Web-Check** | All-in-one website analysis | [web-check.xyz](https://web-check.xyz/) |
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
 | **DB-IP** | IP geolocation database | [db-ip.com](https://db-ip.com/) |
+| **LeakIX** | Search engine for exposed services & leaks | [leakix.net](https://leakix.net/) |
+| **dnsx** | Fast multipurpose DNS toolkit | `go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest` |
+| **tlsx** | TLS certificate collection & analysis | `go install github.com/projectdiscovery/tlsx/cmd/tlsx@latest` |
+| **shuffledns** | massdns wrapper for subdomain brute/resolve | `go install github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest` |
+| **puredns** | Fast accurate DNS bruteforcing & resolving | `git clone https://github.com/d3mondev/puredns` |
+| **cloud_enum** | Enumerate public AWS/Azure/GCP assets | `git clone https://github.com/initstring/cloud_enum` |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
@@ -594,6 +608,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **AI or Not** | Detect AI-generated images | [aiornot.com](https://aiornot.com/) |
 | **Hive Moderation** | AI content detection | [hivemoderation.com](https://hivemoderation.com/) |
 | **Illuminarty** | AI image detection | [illuminarty.ai](https://illuminarty.ai/) |
+| **yt-dlp** | Download video/audio from 1000+ sites | `pip install yt-dlp` |
 
 <details>
 <summary><b>💻 ExifTool — Install & Usage</b></summary>
@@ -877,6 +892,9 @@ proxychains4 curl http://example.onion
 | **Wfuzz** | Web fuzzer | `pip install wfuzz` |
 | **ParamSpider** | Parameter discovery from web archives | `pip install paramspider` |
 | **WebHack** | Web hacking toolkit | `git clone https://github.com/yan4ikyt/webhack` |
+| **Qualys SSL Labs** | Deep SSL/TLS configuration analysis | [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/) |
+| **ImmuniWeb Security Test** | Free web security & privacy test | [immuniweb.com/websec](https://www.immuniweb.com/websec/) |
+| **Pentest-Tools.com** | Hosted web vulnerability scanners | [pentest-tools.com](https://pentest-tools.com/) |
 
 ---
 
@@ -957,6 +975,7 @@ bash zphisher.sh
 | **hcxtools** | Wi-Fi packet capture conversion | `apt install hcxtools` |
 | **Netcat** | The TCP/IP swiss army knife | `apt install netcat-openbsd` |
 | **tcpdump** | Command-line packet analyzer | `apt install tcpdump` |
+| **mitmproxy** | Interactive HTTPS intercepting proxy | `pip install mitmproxy` |
 
 ---
 
@@ -1461,6 +1480,7 @@ python3 cupp.py -i
 | **Google Custom Search API** | Programmable search | [developers.google.com/custom-search](https://developers.google.com/custom-search) |
 | **WhoisXML API** | Domain intelligence | [whoisxmlapi.com](https://whoisxmlapi.com/) |
 | **Criminal IP API** | Threat intelligence | [criminalip.io/developer](https://www.criminalip.io/developer) |
+| **Claude-OSINT** | Paired Claude skills for OSINT recon (90+ modules) | [github.com/elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
 
 ---
 
@@ -1528,6 +1548,8 @@ python3 cupp.py -i
 | **sinwindie/OSINT** | 3k+ | [github.com/sinwindie/OSINT](https://github.com/sinwindie/OSINT) |
 | **Astrosp/Awesome-OSINT-For-Everything** | 2k+ | [github.com/Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) |
 | **tracelabs/awesome-osint** | 1k+ | [github.com/tracelabs/awesome-osint](https://github.com/tracelabs/awesome-osint) |
+| **apurvsinghgautam/dark-web-osint-tools** | 2k+ | [github.com/apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) |
+| **DFW1N/DFW1N-OSINT** | 400+ | [github.com/DFW1N/DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT) |
 
 ---
 
@@ -1757,6 +1779,8 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[ThreatConnect](https://threatconnect.com)** | Threat intel platform combining intel and SOAR | [threatconnect.com](https://threatconnect.com) |
 | **[ThreatQ](https://www.threatq.com)** | Threat intel platform for SOCs | [threatq.com](https://www.threatq.com) |
 | **Yeti** | Open distributed threat intelligence platform | `git clone https://github.com/yeti-platform/yeti.git` |
+| **[ThreatFox](https://threatfox.abuse.ch)** | Free IOC database by abuse.ch | [threatfox.abuse.ch](https://threatfox.abuse.ch/) |
+| **[Validin](https://validin.com)** | DNS & threat intelligence search | [validin.com](https://validin.com/) |
 
 ---
 
@@ -1784,6 +1808,10 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **rizin** | Modern fork of radare2 with cleaner API | `git clone https://github.com/rizinorg/rizin.git` |
 | **The Sleuth Kit** | Library and CLI tools for forensic disk analysis | `apt install sleuthkit` |
 | **Volatility 3** | Memory forensics framework | `pip3 install volatility3` |
+| **x64dbg** | Open-source Windows x64/x32 debugger | `git clone https://github.com/x64dbg/x64dbg` |
+| **dnSpy (dnSpyEx)** | .NET debugger & assembly editor | `git clone https://github.com/dnSpyEx/dnSpy` |
+| **Detect It Easy** | File type & packer detection | `git clone https://github.com/horsicq/Detect-It-Easy` |
+| **capa** | Detect capabilities in executables | `pip install flare-capa` |
 
 ---
 
