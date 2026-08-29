@@ -434,6 +434,7 @@ maigret "username" --html
 | **pwnedOrNot** | Check email breaches and dump exposed passwords | `git clone https://github.com/thewhiteh4t/pwnedOrNot` |
 | **Mailcat** | Find registered accounts from an email address | `git clone https://github.com/sharsil/mailcat` |
 | **check-if-email-exists** | Verify email deliverability without sending | `git clone https://github.com/reacherhq/check-if-email-exists` |
+| **EXPERTE Email Finder** | Free email permutation generator + SMTP validation | [experte.com/email-finder](https://www.experte.com/email-finder) |
 
 <details>
 <summary><b>💻 h8mail — Install & Usage</b></summary>
@@ -475,6 +476,7 @@ h8mail -t emails.txt
 | **TelPoisk** | Russian phone directory | [telpoisk.com](https://telpoisk.com/) |
 | **NumLookup** | Free reverse phone lookup | [numlookup.com](https://www.numlookup.com/) |
 | **Hlr-Lookups** | HLR phone number lookup | [hlr-lookups.com](https://www.hlr-lookups.com/) |
+| **email2phonenumber** | Deduce a phone number from an email via reset hints | `git clone https://github.com/martinvigo/email2phonenumber` |
 | **PhoneSploit** | ADB-based phone exploitation | `git clone https://github.com/aerosol-can/PhoneSploit` |
 
 <details>
@@ -867,6 +869,9 @@ proxychains4 curl http://example.onion
 | **KeePassXC** | Offline password manager | [keepassxc.org](https://keepassxc.org/) |
 | **Mullvad VPN** | Privacy VPN (no email needed) | [mullvad.net](https://mullvad.net/) |
 | **Anon-SMS** | Anonymous SMS sending | `git clone https://github.com/HACK3RY2J/Anon-SMS.git` |
+| **Cryptomator** | Client-side encryption for cloud-stored files | [cryptomator.org](https://cryptomator.org/) |
+| **Vaultwarden** | Self-hosted Bitwarden-compatible password server | `docker pull vaultwarden/server` |
+| **Syncthing** | Peer-to-peer file sync with no cloud middleman | [syncthing.net](https://syncthing.net/) |
 
 ---
 
@@ -1781,6 +1786,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **Yeti** | Open distributed threat intelligence platform | `git clone https://github.com/yeti-platform/yeti.git` |
 | **[ThreatFox](https://threatfox.abuse.ch)** | Free IOC database by abuse.ch | [threatfox.abuse.ch](https://threatfox.abuse.ch/) |
 | **[Validin](https://validin.com)** | DNS & threat intelligence search | [validin.com](https://validin.com/) |
+| **[Maltiverse](https://maltiverse.com)** | Free IOC search across 100+ threat-intel sources | [maltiverse.com](https://maltiverse.com/) |
 
 ---
 
@@ -1990,6 +1996,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Get-Metadata.com](https://www.get-metadata.com)** | Online EXIF extractor — handles .DOCX/.PDF too | [get-metadata.com](https://www.get-metadata.com) |
 | **gf** | Wrapper around grep with patterns for bug-bounty workflow | `go install github.com/tomnomnom/gf@latest` |
 | **[Ghiro](https://www.getghiro.org)** | Automated digital image forensics | [getghiro.org](https://www.getghiro.org) |
+| **gron** | Flatten JSON into greppable lines and back | `go install github.com/tomnomnom/gron@latest` |
 | **git-hound** | Find sensitive data exposed via GitHub code search | `go install github.com/tillson/git-hound@latest` |
 | **github_monitor** | Real-time tracking of GitHub user activity and repo changes | `git clone https://github.com/misiektoja/github_monitor.git` |
 | **gitleaks** | Detect secrets, credentials, and API keys in git repos | `go install github.com/gitleaks/gitleaks/v8@latest` |
@@ -2016,6 +2023,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **Interlace** | Easily turn single-threaded CLI apps into multi-threaded jobs | `git clone https://github.com/codingo/Interlace.git` |
 | **[Joe Sandbox](https://www.joesandbox.com)** | Deep automated malware analysis (free tier) | [joesandbox.com](https://www.joesandbox.com) |
 | **JSFinder** | Find JS files referenced from a URL — endpoints / API paths | `git clone https://github.com/Threezh1/JSFinder.git` |
+| **jq** | Command-line JSON processor — parse OSINT API output | `apt install jq` |
 | **[Kagi Search](https://kagi.com)** | Premium privacy-respecting search engine, no ads, no tracking | [kagi.com](https://kagi.com) |
 | **knock** | Domain knock — security testing via DNS | `git clone https://github.com/guelfoweb/knock.git` |
 | **Knockpy** | Subdomain enumeration scan with virtual host discovery | `pip3 install knock-subdomains` |
@@ -2056,6 +2064,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Peekalink](https://www.peekalink.io)** | Preview any URL — title, description, screenshot via API | [peekalink.io](https://www.peekalink.io) |
 | **[PhishStats](https://phishstats.info)** | Live phishing intelligence feed and search | [phishstats.info](https://phishstats.info) |
 | **[PhishTank](https://phishtank.org)** | Anti-phishing community — verified phishing URLs | [phishtank.org](https://phishtank.org) |
+| **Portainer** | Web UI for managing Docker containers (handy with `labs.sh`) | `docker pull portainer/portainer-ce` |
 | **[Picarta.ai](https://picarta.ai)** | AI-powered photo geolocation predictor | [picarta.ai](https://picarta.ai) |
 | **[Pinterest](https://www.pinterest.com)** | Visual search engine — alternate reverse-image source | [pinterest.com](https://www.pinterest.com) |
 | **[PolygonScan](https://polygonscan.com)** | Polygon (Matic) blockchain explorer | [polygonscan.com](https://polygonscan.com) |
@@ -2066,11 +2075,13 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Pushshift API](https://pushshift.io)** | Historical Reddit data — posts, comments, metadata | [pushshift.io](https://pushshift.io) |
 | **[Quake (360.cn)](https://quake.360.net)** | Chinese internet asset search engine | [quake.360.net](https://quake.360.net) |
 | **[RECAP Archive](https://www.courtlistener.com/recap/)** | Public archive of PACER court documents | [courtlistener.com](https://www.courtlistener.com/recap/) |
+| **[redteam.to](https://redteam.to)** | Searchable directory of 4,500+ offensive-security tools | [redteam.to](https://redteam.to) |
 | **reconFTW** | Full-suite domain recon — subdomain enum, port scan, vuln scan in one pipeline | `git clone https://github.com/six2dez/reconftw.git` |
 | **[RedditMetis](https://redditmetis.com)** | Reddit user analysis — summary, top posts, activity stats | [redditmetis.com](https://redditmetis.com) |
 | **[RedditSearch.io](https://redditsearch.io)** | Search archived Reddit content via Pushshift mirror | [redditsearch.io](https://redditsearch.io) |
 | **[Revealer.cc](https://revealer.cc)** | Discord-based account-checker & breach lookup | [revealer.cc](https://revealer.cc) |
 | **[RocketReach](https://rocketreach.co)** | Find professional emails/phones for 700M+ profiles | [rocketreach.co](https://rocketreach.co) |
+| **ripgrep** | Fast recursive regex search — grep large dumps/wordlists | `apt install ripgrep` |
 | **RustScan** | Modern port scanner — finds open ports, then pipes to Nmap | `git clone https://github.com/RustScan/RustScan.git` |
 | **[ScamAdviser](https://www.scamadviser.com)** | Check website trustworthiness scores | [scamadviser.com](https://www.scamadviser.com) |
 | **[Scribd](https://www.scribd.com)** | Search for documents, presentations, sheet music, ebooks | [scribd.com](https://www.scribd.com) |
