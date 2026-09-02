@@ -2086,6 +2086,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[ScamAdviser](https://www.scamadviser.com)** | Check website trustworthiness scores | [scamadviser.com](https://www.scamadviser.com) |
 | **[Scribd](https://www.scribd.com)** | Search for documents, presentations, sheet music, ebooks | [scribd.com](https://www.scribd.com) |
 | **[searchcode](https://searchcode.com)** | Search 75+ billion lines of public source code across GitHub/GitLab/Bitbucket | [searchcode.com](https://searchcode.com) |
+| **[SearchWebCode](https://www.searchwebcode.com)** | Search the source code (HTML/JS/CSS) of ~127M homepages by exact string or regex; full matched source + CSV export | [searchwebcode.com](https://www.searchwebcode.com) |
 | **Seeker** | Geolocation by phishing — collects precise GPS via WebRTC + browser geolocation | `git clone https://github.com/thewhiteh4t/seeker.git` |
 | **[Shadowserver Dashboard](https://dashboard.shadowserver.org/)** | Global statistics on cyber threats by Shadowserver Foundation | [dashboard.shadowserver.org](https://dashboard.shadowserver.org/) |
 | **Sherloq** | Open-source image forensics toolset | `git clone https://github.com/GuidoBartoli/sherloq.git` |
