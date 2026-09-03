@@ -14063,6 +14063,29 @@
     "archived": false
   },
   {
+    "id": "scweet",
+    "name": "Scweet",
+    "description": "Twitter/X scraper, no API key needed",
+    "category": "username-social",
+    "url": "",
+    "install": {
+      "method": "pip",
+      "kali": "`pip install Scweet`",
+      "raw": "`pip install Scweet`"
+    },
+    "tags": [
+      "username-social"
+    ],
+    "source_versions": [
+      "v1"
+    ],
+    "aliases": [],
+    "sections_seen": [
+      "Social Media Monitoring"
+    ],
+    "archived": false
+  },
+  {
     "id": "snusbase",
     "name": "Snusbase",
     "description": "Breach data search engine",

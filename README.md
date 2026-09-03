@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
+[![Tools](https://img.shields.io/badge/Tools-754%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
@@ -18,7 +18,7 @@
 
 <br/>
 
-> **753+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
+> **754+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
 >
 > *The most comprehensive OSINT and security toolkit on the internet — every tool with installation instructions or a verified link.*
 
@@ -677,6 +677,7 @@ exiftool /path/to/images/
 | **insto** | Interactive Instagram OSINT CLI with REPL, snapshots, diffs, and Maltego exports | `pip install insto` |
 | **Twint** | Twitter OSINT (no API needed) | `pip install twint` |
 | **snscrape** | Social media scraper (Twitter, Reddit, etc.) | `pip install snscrape` |
+| **Scweet** | Twitter/X scraper, no API key needed | `pip install Scweet` |
 | **Toutatis** | Instagram OSINT by phone/email | `pip install toutatis` |
 | **TikTok Scraper** | TikTok data extraction | `npm install -g tiktok-scraper` |
 | **Reddit Investigator** | Reddit user analysis | [reddit-user-analyser.netlify.app](https://reddit-user-analyser.netlify.app/) |
