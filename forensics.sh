@@ -76,19 +76,6 @@ install_git() {
 	if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "/opt/osint-arsenal/$dst" >/dev/null 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
 }
 
-install_docker() {
-	local image="$1" name="$2"
-	if ! command -v docker >/dev/null 2>&1; then
-		fail "$name — docker not installed"
-		return
-	fi
-	if docker image inspect "$image" >/dev/null 2>&1; then
-		skip "$name (docker) already pulled"
-		return
-	fi
-	if docker pull "$image" >/dev/null 2>&1; then ok "$name (docker)"; else fail "$name (docker)"; fi
-}
-
 bootstrap_basics() {
 	case "$PKG" in
 	apt)
