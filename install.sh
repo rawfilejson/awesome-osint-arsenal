@@ -8,15 +8,11 @@
 # ===================================================================
 set -uo pipefail
 
-# Maintain color scheme and logging alignment with sub-modules
-RED="\033[0;31m"
-GRN="\033[0;32m"
-YLW="\033[1;33m"
-BLU="\033[0;34m"
-CYN="\033[0;36m"
-NC="\033[0m"
-
-LOGFILE="${LOGFILE:-$HOME/osint-install-errors.log}"
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]:-$0}")" &>/dev/null && pwd)"
+# Sourced for the shared colors and LOGFILE only. The root guard below stays
+# inline on purpose: its message differs from the lib's require_root().
+# shellcheck source=lib/common.sh
+source "$SCRIPT_DIR/lib/common.sh" || { echo "FATAL: cannot find lib/common.sh" >&2; exit 1; }
 
 # Core Environment Guard
 if [ "$EUID" -ne 0 ]; then
