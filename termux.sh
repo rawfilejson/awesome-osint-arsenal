@@ -19,51 +19,51 @@ declare -a FAILED_TOOLS=()
 
 say() { echo -e "${BLU}[*]${NC} $*"; }
 ok() {
-  echo -e "${GRN}[✓]${NC} $*"
-  INSTALLED=$((INSTALLED + 1))
+	echo -e "${GRN}[✓]${NC} $*"
+	INSTALLED=$((INSTALLED + 1))
 }
 skip() {
-  echo -e "${YLW}[~]${NC} $*"
-  SKIPPED=$((SKIPPED + 1))
+	echo -e "${YLW}[~]${NC} $*"
+	SKIPPED=$((SKIPPED + 1))
 }
 fail() {
-  echo -e "${RED}[✗]${NC} $*"
-  FAILED=$((FAILED + 1))
-  FAILED_TOOLS+=("$1")
-  echo "FAIL: $*" >>"$LOGFILE"
+	echo -e "${RED}[✗]${NC} $*"
+	FAILED=$((FAILED + 1))
+	FAILED_TOOLS+=("$1")
+	echo "FAIL: $*" >>"$LOGFILE"
 }
 
 install_pkg() {
-  local p="$1"
-  if dpkg -s "$p" >/dev/null 2>&1; then
-    skip "$p already installed"
-    return
-  fi
-  if pkg install -y "$p" >>"$LOGFILE" 2>&1; then ok "$p (pkg)"; else fail "$p (pkg)"; fi
+	local p="$1"
+	if dpkg -s "$p" >/dev/null 2>&1; then
+		skip "$p already installed"
+		return
+	fi
+	if pkg install -y "$p" >>"$LOGFILE" 2>&1; then ok "$p (pkg)"; else fail "$p (pkg)"; fi
 }
 
 install_pip() {
-  local p="$1"
-  if pip show "$p" >/dev/null 2>&1; then
-    skip "$p (pip) already installed"
-    return
-  fi
-  # Note: Termux occasionally requires --break-system-packages depending on python environment state
-  if pip install --break-system-packages "$p" >>"$LOGFILE" 2>&1 || pip install "$p" >>"$LOGFILE" 2>&1; then 
-    ok "$p (pip)"
-  else 
-    fail "$p (pip)"
-  fi
+	local p="$1"
+	if pip show "$p" >/dev/null 2>&1; then
+		skip "$p (pip) already installed"
+		return
+	fi
+	# Note: Termux occasionally requires --break-system-packages depending on python environment state
+	if pip install --break-system-packages "$p" >>"$LOGFILE" 2>&1 || pip install "$p" >>"$LOGFILE" 2>&1; then 
+		ok "$p (pip)"
+	else 
+		fail "$p (pip)"
+	fi
 }
 
 install_git() {
-  local repo="$1" dst="$2"
-  mkdir -p "$HOME/osint-arsenal"
-  if [ -d "$HOME/osint-arsenal/$dst" ]; then
-    skip "$dst already cloned"
-    return
-  fi
-  if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "$HOME/osint-arsenal/$dst" >>"$LOGFILE" 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
+	local repo="$1" dst="$2"
+	mkdir -p "$HOME/osint-arsenal"
+	if [ -d "$HOME/osint-arsenal/$dst" ]; then
+		skip "$dst already cloned"
+		return
+	fi
+	if GIT_TERMINAL_PROMPT=0 git clone --depth=1 "$repo" "$HOME/osint-arsenal/$dst" >>"$LOGFILE" 2>&1; then ok "$dst (git)"; else fail "$dst (git)"; fi
 }
 
 say "Updating Termux ecosystem repositories..."
@@ -116,8 +116,8 @@ echo -e "  Skipped:   ${YLW}$SKIPPED${NC}"
 echo -e "  Failed:    ${RED}$FAILED${NC}"
 echo "============================================="
 if ((FAILED > 0)); then
-  echo -e "${RED}Failed tools:${NC} ${FAILED_TOOLS[*]}"
-  echo "Review comprehensive build errors here: $LOGFILE"
+	echo -e "${RED}Failed tools:${NC} ${FAILED_TOOLS[*]}"
+	echo "Review comprehensive build errors here: $LOGFILE"
 fi
 echo
 echo "Tools mapped out to: $HOME/osint-arsenal/"
