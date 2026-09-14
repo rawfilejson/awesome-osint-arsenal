@@ -650,6 +650,7 @@ exiftool /path/to/images/
 | **FaceCheck.ID** | Face recognition search engine | [facecheck.id](https://facecheck.id/) |
 | **PimEyes** | Face search engine from photos | [pimeyes.com](https://pimeyes.com/) |
 | **Search4faces** | Face search in VK/OK social networks | [search4faces.com](https://search4faces.com/) |
+| **Face2social** | Face search across public social profiles, not the open web | [face2social.com](https://face2social.com/) |
 | **face_recognition** | Python face recognition library | `pip install face_recognition` |
 | **DeepFace** | AI face analysis (age, gender, emotion) | `pip install deepface` |
 | **ThatsThem** | Free people search | [thatsthem.com](https://thatsthem.com/) |
