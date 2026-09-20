@@ -177,7 +177,7 @@ install_docker specterops/bloodhound:latest 'BloodHound CE'                     
 install_pip certipy-ad                                                                   # Certipy
 install_pip crackmapexec                                                                 # CrackMapExec
 install_go github.com/dwisiswant0/crlfuzz/cmd/crlfuzz@latest crlfuzz                     # CRLFuzz
-install_go github.com/hahwul/dalfox/v2@latest v2                                         # Dalfox
+install_go github.com/hahwul/dalfox/v2@latest dalfox                                         # Dalfox
 pkg_install evil-winrm                                                                   # Evil-WinRM
 install_git https://github.com/r0oth3x49/ghauri.git ghauri                               # Ghauri
 install_go github.com/KathanP19/Gxss@latest Gxss                                         # Gxss
@@ -188,7 +188,6 @@ install_go github.com/assetnote/kiterunner/cmd/kr@latest kr                     
 install_go github.com/Ne0nd0g/merlin@latest merlin                                       # Merlin
 pkg_install metasploit-framework                                                         # Metasploit Framework
 install_git https://github.com/its-a-feature/Mythic.git Mythic                           # Mythic
-install_pip git
 install_pip netexec                                                                          # NetExec (nxc)
 install_git https://github.com/codingo/NoSQLMap.git NoSQLMap                             # NoSQLMap
 install_git https://github.com/projectdiscovery/nuclei-templates.git nuclei-templates    # Nuclei Templates
@@ -198,7 +197,7 @@ install_git https://github.com/topotam/PetitPotam.git PetitPotam                
 install_git https://github.com/BC-SECURITY/Empire.git Empire                             # PowerShell Empire
 install_git https://github.com/GhostPack/Rubeus.git Rubeus                               # Rubeus
 install_git https://github.com/BloodHoundAD/SharpHound.git SharpHound                    # SharpHound
-install_go github.com/bishopfox/sliver/server@latest server                              # Sliver
+install_go github.com/bishopfox/sliver/server@latest sliver-server                              # Sliver
 install_git https://github.com/swisskyrepo/SSRFmap.git SSRFmap                           # SSRFmap
 install_git https://github.com/t3l3machus/Villain.git Villain                            # Villain
 install_git https://github.com/s0md3v/XSStrike.git XSStrike                              # XSStrike

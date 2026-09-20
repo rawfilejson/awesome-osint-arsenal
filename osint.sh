@@ -226,11 +226,11 @@ echo
 say "Installing: 🌐 Domain & IP / Network Recon (68 tools)"
 pkg_install aircrack-ng                                                            # Aircrack-ng
 install_pip py-altdns                                                              # altdns
-install_go github.com/owasp-amass/amass/v4/...@master ...                          # Amass
+install_go github.com/owasp-amass/amass/v4/...@master amass                          # Amass
 install_go github.com/tomnomnom/anew@latest anew                                   # anew
 install_go github.com/michenriksen/aquatone@latest aquatone                        # Aquatone
 install_go github.com/tomnomnom/assetfinder@latest assetfinder                     # assetfinder
-install_pip git                                                                    # AutoRecon
+install_git https://github.com/Tib3rius/AutoRecon.git AutoRecon                # AutoRecon
 install_git https://github.com/pry0cc/axiom.git axiom                              # Axiom
 install_pip bbot                                                                   # BBOT
 pkg_install bettercap                                                              # Bettercap
@@ -242,12 +242,12 @@ install_pip dnstwist                                                            
 pkg_install ettercap-common                                                        # Ettercap
 pkg_install fern-wifi-cracker                                                      # Fern Wifi Cracker
 pkg_install feroxbuster                                                            # Feroxbuster
-install_go github.com/ffuf/ffuf/v2@latest v2                                       # ffuf
+install_go github.com/ffuf/ffuf/v2@latest ffuf                                       # ffuf
 install_git https://github.com/Findomain/Findomain.git Findomain                   # Findomain
 install_git https://github.com/FluxionNetwork/fluxion.git fluxion                  # Fluxion
 install_go github.com/lc/gau/v2/cmd/gau@latest gau                                 # gau (getallurls)
 install_go github.com/tomnomnom/gf@latest gf                                       # gf
-install_go github.com/OJ/gobuster/v3@latest v3                                     # Gobuster
+install_go github.com/OJ/gobuster/v3@latest gobuster                                     # Gobuster
 install_git https://github.com/jseidl/GoldenEye.git GoldenEye                      # GoldenEye
 install_go github.com/jaeles-project/gospider@latest gospider                      # GoSpider
 install_go github.com/sensepost/gowitness@latest gowitness                         # gowitness
@@ -354,7 +354,7 @@ pkg_install binwalk                                      # Binwalk
 pkg_install bulk-extractor                               # Bulk Extractor
 pkg_install foremost                                     # Foremost
 install_go github.com/tillson/git-hound@latest git-hound # git-hound
-install_go github.com/gitleaks/gitleaks/v8@latest v8     # gitleaks
+install_go github.com/zricethezav/gitleaks/v8@latest gitleaks     # gitleaks
 install_pip metagoofil                                   # Metagoofil
 pkg_install scalpel                                      # Scalpel
 install_pip volatility3                                  # Volatility
