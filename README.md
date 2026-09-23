@@ -427,6 +427,7 @@ maigret "username" --html
 | **GetNotify** | Email open tracking + geolocation | [getnotify.com](https://getnotify.com/) |
 | **Snov.io** | Email finder & verifier | [snov.io](https://snov.io/) |
 | **MXToolbox** | Email header analysis & DNS checks | [mxtoolbox.com](https://mxtoolbox.com/) |
+| **Email Header Analyzer** | Browser-only header analysis: Received chain, SPF/DKIM/DMARC, ARC; nothing is uploaded | [rafaelpfister.ch](https://rafaelpfister.ch/en/tools/header-analyzer) |
 | **SimpleLogin** | Email alias service for OSINT | [simplelogin.io](https://simplelogin.io/) |
 | **Email-Checker** | Email validation tool | [email-checker.net](https://email-checker.net/) |
 | **Voila Norbert** | Find anyone's email | [voilanorbert.com](https://voilanorbert.com/) |
