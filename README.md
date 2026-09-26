@@ -1053,6 +1053,7 @@ bash zphisher.sh
 | **BinCheck** | Bank card BIN lookup | [bincheck.io](https://bincheck.io/) |
 | **Crunchbase** | Company/startup database | [crunchbase.com](https://crunchbase.com/) |
 | **LEI Search** | Legal Entity Identifier lookup | [search.gleif.org](https://search.gleif.org/) |
+| **Barcodepedia** | Barcode (EAN/UPC) lookup: product, brand owner, licensee and GS1 registrant, sources cited | [barcodepedia.com](https://barcodepedia.com/) |
 
 ---
 
