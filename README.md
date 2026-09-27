@@ -537,6 +537,7 @@ pip install phoneinfoga
 | **shuffledns** | massdns wrapper for subdomain brute/resolve | `go install github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest` |
 | **puredns** | Fast accurate DNS bruteforcing & resolving | `git clone https://github.com/d3mondev/puredns` |
 | **cloud_enum** | Enumerate public AWS/Azure/GCP assets | `git clone https://github.com/initstring/cloud_enum` |
+| **pureip.app** | IP purity/risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status | [pureip.app](https://pureip.app/) |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
