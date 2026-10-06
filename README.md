@@ -2104,6 +2104,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Telemetr](https://telemetr.io)** | Telegram channel/group analytics | [telemetr.io](https://telemetr.io) |
 | **Telerecon** | Reconnaissance framework for investigating Telegram | `git clone https://github.com/sockysec/Telerecon.git` |
 | **[Teleteg](https://teleteg.com)** | Telegram search engine — 10 free results | [teleteg.com](https://teleteg.com) |
+| **[TGScope](https://tgscope.io)** | Telegram channel search and catalog: 3M+ public channels by topic, language and size | [tgscope.io](https://tgscope.io) |
 | **[TGStat](https://tgstat.com)** | Telegram channel analytics — post stats, audience overlap | [tgstat.com](https://tgstat.com) |
 | **[The Hidden Wiki](https://thehiddenwiki.org)** | Curated directory of dark-web sites (mirror-dependent) | [thehiddenwiki.org](https://thehiddenwiki.org) |
 | **the-endorser** | Map LinkedIn endorsements/skills to draw out person relationships | `git clone https://github.com/eth0izzle/the-endorser.git` |
