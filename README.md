@@ -2104,6 +2104,8 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Telemetr](https://telemetr.io)** | Telegram channel/group analytics | [telemetr.io](https://telemetr.io) |
 | **Telerecon** | Reconnaissance framework for investigating Telegram | `git clone https://github.com/sockysec/Telerecon.git` |
 | **[Teleteg](https://teleteg.com)** | Telegram search engine — 10 free results | [teleteg.com](https://teleteg.com) |
+| **[TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit)** | Check what share of a Telegram channel's subscribers actually see its posts, compared with similar channels | [tgscope.io](https://tgscope.io/tools/telegram-channel-audit) |
+| **[TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network)** | Find Telegram channels that share an ad contact with a given channel (same owner or agency) | [tgscope.io](https://tgscope.io/tools/telegram-channel-network) |
 | **[TGStat](https://tgstat.com)** | Telegram channel analytics — post stats, audience overlap | [tgstat.com](https://tgstat.com) |
 | **[The Hidden Wiki](https://thehiddenwiki.org)** | Curated directory of dark-web sites (mirror-dependent) | [thehiddenwiki.org](https://thehiddenwiki.org) |
 | **the-endorser** | Map LinkedIn endorsements/skills to draw out person relationships | `git clone https://github.com/eth0izzle/the-endorser.git` |
