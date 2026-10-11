@@ -1091,6 +1091,7 @@ bash zphisher.sh
 | **Metagoofil** | Document metadata harvester | `pip install metagoofil` |
 | **CyberChef** | Data analysis swiss army knife | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) |
 | **Scalpel** | File carving tool | `apt install scalpel` |
+| **EXIF Hound** | Free, open-source desktop app (macOS, Windows, Linux) that inspects image EXIF metadata locally, maps GPS-tagged photos, imports KML, and exports CSV/JSON. | [github.com/minimallyexceptional/exif-hound](https://github.com/minimallyexceptional/exif-hound) |
 
 ---
 
