@@ -537,6 +537,7 @@ pip install phoneinfoga
 | **shuffledns** | massdns wrapper for subdomain brute/resolve | `go install github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest` |
 | **puredns** | Fast accurate DNS bruteforcing & resolving | `git clone https://github.com/d3mondev/puredns` |
 | **cloud_enum** | Enumerate public AWS/Azure/GCP assets | `git clone https://github.com/initstring/cloud_enum` |
+| **cl0q** | Open search engine for domain research and OSINT, 43.3M domains indexed | [cl0q.com](https://cl0q.com) |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
