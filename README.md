@@ -605,6 +605,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **FotoForensics** | Image forensic analysis (ELA) | [fotoforensics.com](https://fotoforensics.com/) |
 | **Fake Image Detector** | AI-based fake image detection | [fakeimagedetector.com](https://www.fakeimagedetector.com/) |
 | **Search by Image** | Multi-engine reverse image (browser ext) | Chrome / Firefox extension |
+| **Reverse Image Search Anywhere** | Right-click image search across Google Lens, Yandex, Bing and TinEye; supports images on sites such as Instagram | [reverseimage.app](https://reverseimage.app/) (Chrome / Edge / Firefox, free) |
 | **Depix** | Recover pixelated text from screenshots | `git clone https://github.com/beurtschipper/Depix` |
 | **Forensically** | Online image forensics suite | [29a.ch/photo-forensics](https://29a.ch/photo-forensics) |
 | **AI or Not** | Detect AI-generated images | [aiornot.com](https://aiornot.com/) |
