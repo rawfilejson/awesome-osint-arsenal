@@ -1787,6 +1787,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[ThreatFox](https://threatfox.abuse.ch)** | Free IOC database by abuse.ch | [threatfox.abuse.ch](https://threatfox.abuse.ch/) |
 | **[Validin](https://validin.com)** | DNS & threat intelligence search | [validin.com](https://validin.com/) |
 | **[Maltiverse](https://maltiverse.com)** | Free IOC search across 100+ threat-intel sources | [maltiverse.com](https://maltiverse.com/) |
+| **[ICHI – Internet Cyber Health Index](https://ichi.global)** | Free daily internet cyber-health barometer — source-transparent index of active CVEs, threat news, and telemetry with direct evidence links | [ichi.global](https://ichi.global) |
 
 ---
 
