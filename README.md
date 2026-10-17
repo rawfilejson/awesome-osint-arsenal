@@ -340,7 +340,8 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **Sherlock** | Find usernames across 400+ social networks | `pip install sherlock-project` |
 | **Maigret** | Advanced Sherlock fork — 3000+ sites | `pip install maigret` |
 | **Namechk** | Username & domain availability checker | [namechk.com](https://namechk.com/) |
-| **WhatsMyName** | Web-based username enumeration | [whatsmyname.app](https://whatsmyname.app/) |
+| **WhatsMyName** | Web-based username enumeration | [whatsmyname.app](https://whatsmyname.app/) | 
+| **WhatsMyName Apps** | Free web-based username search across 3,165 sites, no sign-up ([Android app](https://play.google.com/store/apps/details?id=whatsmyname.app.us)) | [whatsmynameapps.us](https://whatsmynameapps.us/) |
 | **Snoop** | Username search (Russian-focused) | `pip install snoop` |
 | **UserRecon** | Bash-based username finder | `git clone https://github.com/wishihab/userrecon.git` |
 | **Blackbird** | Fast username search tool | `pip install blackbird-osint` |
