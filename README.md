@@ -684,6 +684,7 @@ exiftool /path/to/images/
 | **Telepathy** | Telegram OSINT analysis | `pip install telepathy` |
 | **Twayback** | Find deleted tweets | `pip install twayback` |
 | **Xquik** | X/Twitter data API & MCP skill | [github.com](https://github.com/Xquik-dev/x-twitter-scraper) |
+| **twtData X Trends Archive** | Free daily archive of X/Twitter trending topics by country | [twtdata.com](https://twtdata.com/twitter-trends/) |
 | **SocialBlade** | Social media analytics | [socialblade.com](https://socialblade.com/) |
 | **Social-Searcher** | Free social media search engine | [social-searcher.com](https://www.social-searcher.com/) |
 | **Mention** | Social media monitoring | [mention.com](https://mention.com/) |
