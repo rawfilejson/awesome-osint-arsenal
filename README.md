@@ -604,6 +604,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **InVID** | Video verification toolkit | [invid-project.eu](https://www.invid-project.eu/) |
 | **FotoForensics** | Image forensic analysis (ELA) | [fotoforensics.com](https://fotoforensics.com/) |
 | **Fake Image Detector** | AI-based fake image detection | [fakeimagedetector.com](https://www.fakeimagedetector.com/) |
+| **isGenAI** | Reads C2PA Content Credentials, AI labels and saved AI prompts in images and pages (free, no account) | [isgenai.com](https://isgenai.com/) |
 | **Search by Image** | Multi-engine reverse image (browser ext) | Chrome / Firefox extension |
 | **Depix** | Recover pixelated text from screenshots | `git clone https://github.com/beurtschipper/Depix` |
 | **Forensically** | Online image forensics suite | [29a.ch/photo-forensics](https://29a.ch/photo-forensics) |
