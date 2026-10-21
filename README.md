@@ -1505,6 +1505,7 @@ python3 cupp.py -i
 | **Hunchly** | OSINT web capture & case manager | Chrome |
 | **InVID/WeVerify** | Video/image verification | Chrome / Firefox |
 | **SingleFile** | Save complete web pages | Chrome / Firefox |
+| **[Spoof Me](https://spoof-me.com/)** | Switch full browser identity (UA, language, timezone, screen) + flag fingerprinting scripts | Chrome / Firefox |
 
 ---
 
