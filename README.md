@@ -1050,6 +1050,7 @@ bash zphisher.sh
 | **Orbit** | Bitcoin address investigator | `git clone https://github.com/s0md3v/Orbit` |
 | **Blockchain.com** | Bitcoin explorer | [blockchain.com/explorer](https://blockchain.com/explorer) |
 | **Etherscan** | Ethereum blockchain explorer | [etherscan.io](https://etherscan.io/) |
+| **Iris** | Multi-chain wallet investigation: funders, counterparties, fund tracing, labels with sources | [iriscan.app](https://iriscan.app/) |
 | **BinCheck** | Bank card BIN lookup | [bincheck.io](https://bincheck.io/) |
 | **Crunchbase** | Company/startup database | [crunchbase.com](https://crunchbase.com/) |
 | **LEI Search** | Legal Entity Identifier lookup | [search.gleif.org](https://search.gleif.org/) |
