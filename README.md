@@ -686,6 +686,7 @@ exiftool /path/to/images/
 | **Xquik** | X/Twitter data API & MCP skill | [github.com](https://github.com/Xquik-dev/x-twitter-scraper) |
 | **SocialBlade** | Social media analytics | [socialblade.com](https://socialblade.com/) |
 | **Social-Searcher** | Free social media search engine | [social-searcher.com](https://www.social-searcher.com/) |
+| **SocialSleuth Instagram Story Viewer** | View and download publicly available Instagram Stories in a browser (free manual tier; optional paid archiving) | [socialsleuth.xyz](https://socialsleuth.xyz/instagram-story-viewer) |
 | **Mention** | Social media monitoring | [mention.com](https://mention.com/) |
 | **BrandWatch** | Social listening platform | [brandwatch.com](https://www.brandwatch.com/) |
 
