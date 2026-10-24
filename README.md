@@ -22,6 +22,8 @@
 >
 > *The most comprehensive OSINT and security toolkit on the internet — every tool with installation instructions or a verified link.*
 
+> 🇨🇳 **Chinese (Simplified) edition**: [bayshier/awesome-osint-arsenal-zh](https://github.com/bayshier/awesome-osint-arsenal-zh) — fully translated documentation, same one-command installers, kept in sync with upstream.
+
 <a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
