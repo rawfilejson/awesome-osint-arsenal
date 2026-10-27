@@ -678,6 +678,7 @@ exiftool /path/to/images/
 | **Twint** | Twitter OSINT (no API needed) | `pip install twint` |
 | **snscrape** | Social media scraper (Twitter, Reddit, etc.) | `pip install snscrape` |
 | **Toutatis** | Instagram OSINT by phone/email | `pip install toutatis` |
+| **iFollowTracker** | Web tool that checks a public Instagram profile's recent follows and compares repeat checks over time (no Instagram login) | [ifollowtracker.com](https://www.ifollowtracker.com/) |
 | **TikTok Scraper** | TikTok data extraction | `npm install -g tiktok-scraper` |
 | **Reddit Investigator** | Reddit user analysis | [reddit-user-analyser.netlify.app](https://reddit-user-analyser.netlify.app/) |
 | **socialscan** | Social media presence checker | `pip install socialscan` |
