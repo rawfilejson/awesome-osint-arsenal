@@ -1484,6 +1484,7 @@ python3 cupp.py -i
 | **AbuseIPDB API** | IP reputation | [abuseipdb.com/api](https://www.abuseipdb.com/api) |
 | **Google Custom Search API** | Programmable search | [developers.google.com/custom-search](https://developers.google.com/custom-search) |
 | **WhoisXML API** | Domain intelligence | [whoisxmlapi.com](https://whoisxmlapi.com/) |
+| **CurlShot API** | Website screenshots (full-page PNG/PDF) for evidence capture; free tier 100/month | [curlshot.com/docs](https://curlshot.com/docs) |
 | **Criminal IP API** | Threat intelligence | [criminalip.io/developer](https://www.criminalip.io/developer) |
 | **Claude-OSINT** | Paired Claude skills for OSINT recon (90+ modules) | [github.com/elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
 
