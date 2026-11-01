@@ -358,6 +358,7 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **Instant Username Search** | Real-time username checker | [instantusername.com](https://instantusername.com/) |
 | **Usersearch.org** | Free social network search | [usersearch.org](https://usersearch.org/) |
 | **Lullar** | Free people search by email, username, or name across 175+ sites | [com.lullar.com](https://com.lullar.com/) |
+| **Opsis** | Email and username search across 1,000+ sites (free email check, paid full search) | [useopsis.com](https://useopsis.com/) |
 | **tookie-osint** | Username to social accounts across many sites | `git clone https://github.com/Alfredredbird/tookie-osint` |
 | **GitFive** | GitHub account OSINT — emails, keys, activity | `git clone https://github.com/mxrch/GitFive` |
 | **Marple** | Username search across search-engine results | `git clone https://github.com/soxoj/marple` |
