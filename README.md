@@ -1483,6 +1483,7 @@ python3 cupp.py -i
 | **urlscan.io API** | URL analysis | [urlscan.io/docs/api](https://urlscan.io/docs/api/) |
 | **AbuseIPDB API** | IP reputation | [abuseipdb.com/api](https://www.abuseipdb.com/api) |
 | **Google Custom Search API** | Programmable search | [developers.google.com/custom-search](https://developers.google.com/custom-search) |
+| **Keenable API** | Independent web search + page fetch | [docs.keenable.ai](https://docs.keenable.ai/) |
 | **WhoisXML API** | Domain intelligence | [whoisxmlapi.com](https://whoisxmlapi.com/) |
 | **Criminal IP API** | Threat intelligence | [criminalip.io/developer](https://www.criminalip.io/developer) |
 | **Claude-OSINT** | Paired Claude skills for OSINT recon (90+ modules) | [github.com/elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
