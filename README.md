@@ -1486,6 +1486,7 @@ python3 cupp.py -i
 | **WhoisXML API** | Domain intelligence | [whoisxmlapi.com](https://whoisxmlapi.com/) |
 | **Criminal IP API** | Threat intelligence | [criminalip.io/developer](https://www.criminalip.io/developer) |
 | **Claude-OSINT** | Paired Claude skills for OSINT recon (90+ modules) | [github.com/elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
+| **looot** | One API key and MCP server for 4,200+ company, people, email, domain and web lookups from 300+ providers | [docs.looot.ai](https://docs.looot.ai) |
 
 ---
 
