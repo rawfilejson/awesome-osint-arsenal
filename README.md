@@ -1486,7 +1486,7 @@ python3 cupp.py -i
 | **WhoisXML API** | Domain intelligence | [whoisxmlapi.com](https://whoisxmlapi.com/) |
 | **Criminal IP API** | Threat intelligence | [criminalip.io/developer](https://www.criminalip.io/developer) |
 | **Claude-OSINT** | Paired Claude skills for OSINT recon (90+ modules) | [github.com/elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
-| **Arcmira** | Search indexed YouTube transcripts with source timestamps; hosted API, free tier and paid plans | [arcmira.com](https://arcmira.com/) · [API docs](https://arcmira.com/docs) |
+| **Arcmira** | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. Hosted API, free tier and paid plans. | [arcmira.com](https://arcmira.com/) · [API docs](https://arcmira.com/docs) |
 
 ---
 
