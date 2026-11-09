@@ -1091,6 +1091,7 @@ bash zphisher.sh
 | **Metagoofil** | Document metadata harvester | `pip install metagoofil` |
 | **CyberChef** | Data analysis swiss army knife | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) |
 | **Scalpel** | File carving tool | `apt install scalpel` |
+| **WhatsInMyFile** | In-browser metadata, hidden text and PDF edit checks | [whatsinmyfile.com](https://whatsinmyfile.com/) |
 
 ---
 
