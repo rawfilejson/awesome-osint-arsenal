@@ -532,6 +532,7 @@ pip install phoneinfoga
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
 | **DB-IP** | IP geolocation database | [db-ip.com](https://db-ip.com/) |
 | **LeakIX** | Search engine for exposed services & leaks | [leakix.net](https://leakix.net/) |
+| **Whatoblock** | IP lookup against honeypot data: scanners, botnet C2s, proxies, Tor exit nodes | [whatoblock.com](https://whatoblock.com/) |
 | **dnsx** | Fast multipurpose DNS toolkit | `go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest` |
 | **tlsx** | TLS certificate collection & analysis | `go install github.com/projectdiscovery/tlsx/cmd/tlsx@latest` |
 | **shuffledns** | massdns wrapper for subdomain brute/resolve | `go install github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest` |
