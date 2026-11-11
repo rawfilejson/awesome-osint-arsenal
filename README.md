@@ -527,6 +527,7 @@ pip install phoneinfoga
 | **ARIN WHOIS** | IP registration database | [whois.arin.net](https://whois.arin.net/) |
 | **BGP Toolkit** | BGP/ASN/IP intelligence | [bgp.he.net](https://bgp.he.net/) |
 | **urlscan.io** | URL/domain analysis & screenshots | [urlscan.io](https://urlscan.io/) |
+| **Peekray** | Short-link & redirect unwrapping with phishing-list lookup | [peekray.com](https://peekray.com/) |
 | **AbuseIPDB** | IP address reputation database | [abuseipdb.com](https://www.abuseipdb.com/) |
 | **Web-Check** | All-in-one website analysis | [web-check.xyz](https://web-check.xyz/) |
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
