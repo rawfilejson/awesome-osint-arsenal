@@ -1018,6 +1018,7 @@ bash zphisher.sh
 | **ReconAIzer** | AI-enhanced Burp Suite extension | [github.com/hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) |
 | **AI or Not** | Detect AI-generated content | [aiornot.com](https://aiornot.com/) |
 | **HARPA AI** | AI browser agent for OSINT | [harpa.ai](https://harpa.ai/) |
+| **GetYouTubeTranscript** | Timestamped transcripts of YouTube videos, to search and quote what was said | [getyoutubetranscript.com](https://getyoutubetranscript.com/) |
 
 ### Free AI Tools for OSINT Research
 
