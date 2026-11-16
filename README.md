@@ -1052,6 +1052,7 @@ bash zphisher.sh
 | **Etherscan** | Ethereum blockchain explorer | [etherscan.io](https://etherscan.io/) |
 | **BinCheck** | Bank card BIN lookup | [bincheck.io](https://bincheck.io/) |
 | **Crunchbase** | Company/startup database | [crunchbase.com](https://crunchbase.com/) |
+| **Crunchbase Company API** | Crunchbase company profiles as JSON: funding, investors, industries, HQ location, employee count (paid, unofficial) | [apify.com/johnvc/crunchbase-company-api](https://apify.com/johnvc/crunchbase-company-api) |
 | **LEI Search** | Legal Entity Identifier lookup | [search.gleif.org](https://search.gleif.org/) |
 
 ---
