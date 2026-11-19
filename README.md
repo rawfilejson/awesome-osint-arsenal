@@ -585,6 +585,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **KartaView** | Street-level imagery (OpenStreetCam) | [kartaview.org](https://kartaview.org/) |
 | **ShadowMap** | Shadow analysis for time estimation | [shadowmap.org](https://shadowmap.org/) |
 | **Crime Brasil** | Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents) | [crimebrasil.com.br](https://crimebrasil.com.br) |
+| **Velocity** | Self-hosted live map of aircraft (ADS-B), ships (AIS) and satellites from public feeds, with a local history archive for replay | [github.com/AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) |
 
 ---
 
