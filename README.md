@@ -341,6 +341,7 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **Maigret** | Advanced Sherlock fork — 3000+ sites | `pip install maigret` |
 | **Namechk** | Username & domain availability checker | [namechk.com](https://namechk.com/) |
 | **WhatsMyName** | Web-based username enumeration | [whatsmyname.app](https://whatsmyname.app/) |
+| **FreeUsername** | Browser-based username search across 3,450+ sites | [freeusername.com](https://freeusername.com/) |
 | **Snoop** | Username search (Russian-focused) | `pip install snoop` |
 | **UserRecon** | Bash-based username finder | `git clone https://github.com/wishihab/userrecon.git` |
 | **Blackbird** | Fast username search tool | `pip install blackbird-osint` |
