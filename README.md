@@ -585,6 +585,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **KartaView** | Street-level imagery (OpenStreetCam) | [kartaview.org](https://kartaview.org/) |
 | **ShadowMap** | Shadow analysis for time estimation | [shadowmap.org](https://shadowmap.org/) |
 | **Crime Brasil** | Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents) | [crimebrasil.com.br](https://crimebrasil.com.br) |
+| **H1DR4 Police Incident Map** | Free browser map of monthly Police.uk street-level records in England and Wales, using approximate published points. | [h1dr4.dev/map](https://h1dr4.dev/map) |
 
 ---
 
