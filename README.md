@@ -435,6 +435,7 @@ maigret "username" --html
 | **Mailcat** | Find registered accounts from an email address | `git clone https://github.com/sharsil/mailcat` |
 | **check-if-email-exists** | Verify email deliverability without sending | `git clone https://github.com/reacherhq/check-if-email-exists` |
 | **EXPERTE Email Finder** | Free email permutation generator + SMTP validation | [experte.com/email-finder](https://www.experte.com/email-finder) |
+| **Postmaster of Puppets** | Check a domain's SPF, DKIM and DMARC: can anyone send email as it | [postmasterofpuppets.com](https://postmasterofpuppets.com/) |
 
 <details>
 <summary><b>💻 h8mail — Install & Usage</b></summary>
