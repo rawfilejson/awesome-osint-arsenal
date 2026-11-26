@@ -537,7 +537,7 @@ pip install phoneinfoga
 | **shuffledns** | massdns wrapper for subdomain brute/resolve | `go install github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest` |
 | **puredns** | Fast accurate DNS bruteforcing & resolving | `git clone https://github.com/d3mondev/puredns` |
 | **cloud_enum** | Enumerate public AWS/Azure/GCP assets | `git clone https://github.com/initstring/cloud_enum` |
-| **InboxShield** | Passive email DNS recon (recursive SPF, 24 DKIM selectors, DMARC, MTA-STS, BIMI & 5 DNSBLs) | `curl -fsSL https://inbox-checker.appwrite.network/cli.sh \| sh -s -- example.com` |
+| **InboxShield** | Passive email DNS recon (recursive SPF, 24 DKIM selectors, DMARC, MTA-STS, BIMI & 5 DNSBLs) | `curl -fsSL "https://inbox.shipbastion.com/api/free-audit?domain=example.com"` |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
