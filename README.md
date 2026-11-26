@@ -362,6 +362,7 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **GitFive** | GitHub account OSINT — emails, keys, activity | `git clone https://github.com/mxrch/GitFive` |
 | **Marple** | Username search across search-engine results | `git clone https://github.com/soxoj/marple` |
 | **yesitsme** | Find Instagram accounts by email or phone | `git clone https://github.com/0x0be/yesitsme` |
+| **FreeUsername Android** | Username search across 3,450+ sites from Android, with JSON/CSV export | [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us) |
 
 <details>
 <summary><b>💻 Sherlock — Install & Usage</b></summary>
