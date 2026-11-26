@@ -523,6 +523,7 @@ pip install phoneinfoga
 | **WHOIS.com** | WHOIS domain lookup | [whois.com](https://www.whois.com/) |
 | **ViewDNS** | Multiple DNS tools | [viewdns.info](https://viewdns.info/) |
 | **DNSDumpster** | DNS reconnaissance & mapping | [dnsdumpster.com](https://dnsdumpster.com/) |
+| **NetAPI** | Reverse IP & domain lookup, free feeds of attacking IPs and phishing domains (CC BY 4.0) | [netapi.com](https://netapi.com/) |
 | **Robtex** | DNS lookup visualization | [robtex.com](https://robtex.com/) |
 | **ARIN WHOIS** | IP registration database | [whois.arin.net](https://whois.arin.net/) |
 | **BGP Toolkit** | BGP/ASN/IP intelligence | [bgp.he.net](https://bgp.he.net/) |
